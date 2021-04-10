@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ZipperTest" tests="13" skipped="12" failures="0" errors="0" timestamp="2021-04-10T04:15:19" hostname="64DEVIN" time="0.009">
+  <properties/>
+  <testcase name="testSetRightWithNull" classname="ZipperTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSetRightWithSubtree" classname="ZipperTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testToTreeFromDeepFocus" classname="ZipperTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLeftRightAndUp" classname="ZipperTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSetLeftWithLeaf" classname="ZipperTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSetValueAfterTraversingUp" classname="ZipperTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSetValueOnDeepFocus" classname="ZipperTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDeadEnd" classname="ZipperTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLeftRightAndValue" classname="ZipperTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTraversingUpFromTop" classname="ZipperTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="differentPathToSameZipper" classname="ZipperTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testToTree" classname="ZipperTest" time="0.004"/>
+  <testcase name="testSetValue" classname="ZipperTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordSearcherTest" tests="20" skipped="19" failures="0" errors="0" timestamp="2021-04-10T03:37:23" hostname="64DEVIN" time="0.018">
+  <properties/>
+  <testcase name="testShouldLocateThatDifferentLeftToRightWordInADifferentPosition" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLocatesWordsWrittenTopRightToBottomLeft" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAcceptsInitialGridAndTargetWord" classname="WordSearcherTest" time="0.004"/>
+  <testcase name="testShouldLocateMultipleWords" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLocatesWordsWrittenBottomRightToTopLeft" classname="WordSearcherTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testLocatesSameWordWrittenLeftToRightInDifferentTenLineGrid" classname="WordSearcherTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testShouldLocateMultipleWordsWrittenInDifferentHorizontalDirections" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFailsToLocateAWordsThatIsNotInThePuzzle" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testShouldLocateASingleWordRightToLeft" classname="WordSearcherTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testLocatesWordsWrittenTopToBottom" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLocatesWordWrittenLeftToRightInTenLineGrid" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLocatesWordsWrittenTopLeftToBottomRight" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLocatesWordsWrittenBottomToTop" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testShouldLocateLeftToRightWordInThreeLineGrid" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLocatesOneWordWrittenLeftToRight" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLocatesDifferentWordWrittenLeftToRightInTenLineGrid" classname="WordSearcherTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testShouldLocateTheSameWordLeftToRightInDifferentPosition" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testShouldLocateADifferentLeftToRightWord" classname="WordSearcherTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testShouldLocateLeftToRightWordInTwoLineGrid" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLocatesWordsWrittenBottomLeftToTopRight" classname="WordSearcherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

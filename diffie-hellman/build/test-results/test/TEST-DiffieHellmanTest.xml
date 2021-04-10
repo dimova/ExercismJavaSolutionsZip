@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DiffieHellmanTest" tests="5" skipped="4" failures="0" errors="0" timestamp="2021-04-10T04:53:02" hostname="64DEVIN" time="0.004">
+  <properties/>
+  <testcase name="testExchange" classname="DiffieHellmanTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testPrivateKeyInRange" classname="DiffieHellmanTest" time="0.002"/>
+  <testcase name="testPublicKeyCorrectlyCalculated" classname="DiffieHellmanTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testPrivateKeyRandomlyGenerated" classname="DiffieHellmanTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSecretKeyCorrectlyCalculated" classname="DiffieHellmanTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

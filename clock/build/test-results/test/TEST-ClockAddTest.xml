@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClockAddTest" tests="16" skipped="16" failures="0" errors="0" timestamp="2021-04-10T04:11:29" hostname="64DEVIN" time="0.005">
+  <properties/>
+  <testcase name="subtractMoreThanAnHour" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="subtractMoreThanTwoHoursWithBorrow" classname="ClockAddTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="addMoreThanTwoHoursWithCarry" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="subtractAcrossMidnight" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="subtractMoreThanOneDay" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addMinutes" classname="ClockAddTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="subtractMoreThanTwoHours" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="subtractMinutes" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addMoreThanOneHour" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addAcrossMidnight" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addToNextHour" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addMoreThanOneDay" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addNoMinutes" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="subtractMoreThanTwoDays" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addMoreThanTwoDays" classname="ClockAddTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="subtractToPreviousHour" classname="ClockAddTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FlattenerTest" tests="6" skipped="5" failures="0" errors="0" timestamp="2021-04-05T18:19:23" hostname="64DEVIN" time="0.006">
+  <properties/>
+  <testcase name="testSixLevelsOfNestingWithNulls" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testASingleLevelOfNestingWithNoNulls" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFlatListIsPreserved" classname="FlattenerTest" time="0.003"/>
+  <testcase name="testFiveLevelsOfNestingWithNoNulls" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNestedListsFullOfNullsOnly" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSixLevelsOfNestingWithNoNulls" classname="FlattenerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

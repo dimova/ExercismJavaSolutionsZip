@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HangmanTest" tests="9" skipped="8" failures="0" errors="0" timestamp="2021-04-08T06:07:02" hostname="64DEVIN" time="0.174">
+  <properties/>
+  <testcase name="consecutiveGames" classname="HangmanTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="lostGame" classname="HangmanTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="cannotPlayAGuessTwice" classname="HangmanTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="firstGuess" classname="HangmanTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="firstMiss" classname="HangmanTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="wonGame" classname="HangmanTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="gameInProgress" classname="HangmanTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="cannotPlayAMissTwice" classname="HangmanTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="initialization" classname="HangmanTest" time="0.167"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

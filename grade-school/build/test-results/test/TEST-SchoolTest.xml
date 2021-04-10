@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SchoolTest" tests="7" skipped="6" failures="0" errors="0" timestamp="2021-04-09T15:18:26" hostname="64DEVIN" time="0.056">
+  <properties/>
+  <testcase name="gradeReturnsTheStudentsInThatGradeInAlphabeticalOrder" classname="SchoolTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="studentNamesWithGradesAreDisplayedInTheSameSortedRoster" classname="SchoolTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="gradeReturnsAnEmptyListIfThereAreNoStudentsInThatGrade" classname="SchoolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="addingStudentsToDifferentGradesAddsThemToTheSameSortedRoster" classname="SchoolTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="addingMoreStudentsAddsThemToTheSameSortedRoster" classname="SchoolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="rosterReturnsAnEmptyListIfThereAreNoStudentsEnrolled" classname="SchoolTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="addingAStudentAddsThemToTheSortedRoster" classname="SchoolTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

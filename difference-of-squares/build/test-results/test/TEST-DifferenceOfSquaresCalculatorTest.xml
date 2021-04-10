@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DifferenceOfSquaresCalculatorTest" tests="9" skipped="8" failures="0" errors="0" timestamp="2021-04-03T13:48:02" hostname="64DEVIN" time="0.025">
+  <properties/>
+  <testcase name="testDifferenceOfSquaresUpToHundred" classname="DifferenceOfSquaresCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSquareOfSumUpToOne" classname="DifferenceOfSquaresCalculatorTest" time="0.008"/>
+  <testcase name="testSquareOfSumUpToHundred" classname="DifferenceOfSquaresCalculatorTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="testDifferenceOfSquaresUpToOne" classname="DifferenceOfSquaresCalculatorTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testSumOfSquaresUpToHundred" classname="DifferenceOfSquaresCalculatorTest" time="0.003">
+    <skipped/>
+  </testcase>
+  <testcase name="testSquareOfSumUpToFive" classname="DifferenceOfSquaresCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDifferenceOfSquaresUpToFive" classname="DifferenceOfSquaresCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSumOfSquaresUpToOne" classname="DifferenceOfSquaresCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSumOfSquaresUpToFive" classname="DifferenceOfSquaresCalculatorTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

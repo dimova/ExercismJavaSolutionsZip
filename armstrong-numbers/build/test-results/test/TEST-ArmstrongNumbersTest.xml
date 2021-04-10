@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArmstrongNumbersTest" tests="9" skipped="8" failures="0" errors="0" timestamp="2021-04-03T06:32:30" hostname="64DEVIN" time="0.014">
+  <properties/>
+  <testcase name="threeDigitNumberIsNotArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="sevenDigitNumberIsNotArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="noTwoDigitArmstrongNumbers" classname="ArmstrongNumbersTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="singleDigitsAreArmstrongNumbers" classname="ArmstrongNumbersTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="zeroIsArmstrongNumber" classname="ArmstrongNumbersTest" time="0.005"/>
+  <testcase name="sevenDigitNumberIsArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fourDigitNumberIsNotArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fourDigitNumberIsArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="threeDigitNumberIsArmstrongNumber" classname="ArmstrongNumbersTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

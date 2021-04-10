@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordProblemSolverTest" tests="23" skipped="22" failures="0" errors="0" timestamp="2021-04-09T15:23:04" hostname="64DEVIN" time="0.042">
+  <properties/>
+  <testcase name="testSingleMultiplication" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testMultipleDivisions" classname="WordProblemSolverTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testUnknownOperation" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testJustANumber" classname="WordProblemSolverTest" time="0.005"/>
+  <testcase name="testSingleDivision" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAdditionThenSubtraction" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNoOperandsOrOperators" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testMissingAnOperand" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSingleAdditionWithNegativeNumbers" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testMultipleAdditions" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTwoOperationsInARow" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSubtractionThenAddition" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testPrefixNotation" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testMultipleSubtractions" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testPostfixNotation" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testMultipleMultiplications" classname="WordProblemSolverTest" time="0.01">
+    <skipped/>
+  </testcase>
+  <testcase name="testSingleSubtraction" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSingleAddition1" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSingleAddition2" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTwoNumbersAfterOperation" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNonMathQuestion" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSingleAdditionOfLargeNumbers" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAdditionThenMultiplication" classname="WordProblemSolverTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

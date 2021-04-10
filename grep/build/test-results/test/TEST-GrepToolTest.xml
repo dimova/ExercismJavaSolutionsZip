@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GrepToolTest" tests="25" skipped="24" failures="0" errors="0" timestamp="2021-04-08T05:17:05" hostname="64DEVIN" time="0.054">
+  <properties/>
+  <testcase name="multipleFilesNoMatchesVariousFlags" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleFilesSeveralMatchesNoFlags" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleFilesSeveralMatchesInvertedFlag" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleFilesSeveralMatchesPrintLineNumbersFlag" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleFilesSeveralMatchesInvertedAndMatchEntireLinesFlags" classname="GrepToolTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileOneMatchMultipleFlags" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileSeveralMatchesMatchEntireLineFlag" classname="GrepToolTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileOneMatchCaseInsensitiveFlag" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileOneMatchNoFlags" classname="GrepToolTest" time="0.037"/>
+  <testcase name="oneFileOneMatchPrintFileNamesFlag" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleFilesOneMatchMultipleFlags" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleFilesOneMatchEntireLinesFlag" classname="GrepToolTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileOneMatchFileFlagTakesPrecedenceOverLineFlag" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileSeveralMatchesInvertedAndMatchEntireLinesFlags" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleFilesOneMatchPrintFileNamesFlag" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileSeveralMatchesCaseInsensitiveFlag" classname="GrepToolTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleFilesSeveralMatchesCaseInsensitiveFlag" classname="GrepToolTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileSeveralMatchesPrintLineNumbersFlag" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileOneMatchEntireLinesFlag" classname="GrepToolTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleFilesSeveralMatchesFileFlagTakesPrecedenceOverLineNumberFlag" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileSeveralMatchesInvertedFlag" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileNoMatchesVariousFlags" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileSeveralMatchesNoFlags" classname="GrepToolTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleFilesOneMatchNoFlags" classname="GrepToolTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="oneFileOneMatchPrintLineNumbersFlag" classname="GrepToolTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

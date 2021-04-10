@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AtbashTest" tests="14" skipped="13" failures="0" errors="0" timestamp="2021-04-07T19:26:59" hostname="64DEVIN" time="0.034">
+  <properties/>
+  <testcase name="testEncodeYes" classname="AtbashTest" time="0.03"/>
+  <testcase name="testDecodeWithNoSpaces" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeMindBlowingly" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeNo" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecodeWithTooManySpaces" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeAllTheLetters" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeOmgInCapital" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecodeNumbers" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecodeExercism" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeDeepThought" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecodeAllTheLetters" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeNumbers" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeOmgWithSpaces" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecodeASentence" classname="AtbashTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

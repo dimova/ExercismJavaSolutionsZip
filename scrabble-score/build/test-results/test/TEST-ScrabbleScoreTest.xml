@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleScoreTest" tests="11" skipped="10" failures="0" errors="0" timestamp="2021-04-03T11:35:24" hostname="64DEVIN" time="0.014">
+  <properties/>
+  <testcase name="testAShortValuableWord" classname="ScrabbleScoreTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEntireAlphabetAvailable" classname="ScrabbleScoreTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAUpperCaseLetter" classname="ScrabbleScoreTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testALongMixCaseWord" classname="ScrabbleScoreTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAEnglishLikeWord" classname="ScrabbleScoreTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAValuableLetter" classname="ScrabbleScoreTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testALowerCaseLetter" classname="ScrabbleScoreTest" time="0.006"/>
+  <testcase name="testAMediumWord" classname="ScrabbleScoreTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAnEmptyInput" classname="ScrabbleScoreTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAShortWord" classname="ScrabbleScoreTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAMediumValuableWord" classname="ScrabbleScoreTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

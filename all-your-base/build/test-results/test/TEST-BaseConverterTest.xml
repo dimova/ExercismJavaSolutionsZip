@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BaseConverterTest" tests="20" skipped="19" failures="0" errors="0" timestamp="2021-04-09T15:35:08" hostname="64DEVIN" time="0.018">
+  <properties/>
+  <testcase name="testSingleDecimalToBinary" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecimalToBinary" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFirstBaseIsOne" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testBinaryToSingleDecimal" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFirstBaseIsZero" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLeadingZeros" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTrinaryToHexadecimal" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testHexadecimalToTrinary" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSecondBaseIsZero" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEmptyDigits" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSingleZero" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testBinaryToMultipleDecimal" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSecondBaseIsNegative" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test15BitInteger" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSingleBitOneToDecimal" classname="BaseConverterTest" time="0.013"/>
+  <testcase name="testInvalidPositiveDigit" classname="BaseConverterTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testMultipleZeros" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNegativeDigit" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFirstBaseIsNegative" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSecondBaseIsOne" classname="BaseConverterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

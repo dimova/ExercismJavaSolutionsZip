@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="KnapsackTest" tests="7" skipped="6" failures="0" errors="0" timestamp="2021-04-06T06:50:40" hostname="64DEVIN" time="0.021">
+  <properties/>
+  <testcase name="testFiveItemsCannotBeGreedyByWeight" classname="KnapsackTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testOneItemTooHeavy" classname="KnapsackTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testEightItems" classname="KnapsackTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFiveItemsCannotBeGreedyByValue" classname="KnapsackTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testNoItems" classname="KnapsackTest" time="0.008"/>
+  <testcase name="testExampleKnapsack" classname="KnapsackTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFifteenItems" classname="KnapsackTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

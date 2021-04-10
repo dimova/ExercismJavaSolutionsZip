@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SayTest" tests="15" skipped="14" failures="0" errors="0" timestamp="2021-04-04T05:10:20" hostname="64DEVIN" time="0.006">
+  <properties/>
+  <testcase name="twenty" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="nineHundredEightySevenBillionSixHundredFiftyFourThreeHundredTwentyOneThousandOneHundredTwentyThree" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneBillion" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="one" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="zero" classname="SayTest" time="0.002"/>
+  <testcase name="oneMillionTwoThousandThreeHundredFortyFive" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twentyTwo" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fourteen" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneMillion" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="illegalNegativeNumber" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneHundred" classname="SayTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="illegalTooBigNumber" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneHundredTwentyThree" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneThousand" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneThousandTwoHundredThirtyFour" classname="SayTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

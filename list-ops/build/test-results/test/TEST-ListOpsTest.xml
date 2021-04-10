@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ListOpsTest" tests="21" skipped="20" failures="0" errors="0" timestamp="2021-04-08T06:54:22" hostname="64DEVIN" time="0.022">
+  <properties/>
+  <testcase name="testReversingNonEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFoldLeftEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFoldLeftDirectionDependentFunctionAppliedToNonEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTransformingNonEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReversingEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSizeOfNonEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFoldRightEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFilteringEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testConcatListOfNestedLists" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFoldLeftDirectionIndependentFunctionAppliedToNonEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAppendingEmptyLists" classname="ListOpsTest" time="0.008"/>
+  <testcase name="testFoldRightDirectionIndependentFunctionAppliedToNonEmptyList" classname="ListOpsTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testFilteringNonEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTransformingEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSizeOfEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAppendingNonEmptyLists" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFoldRightDirectionDependentFunctionAppliedToNonEmptyList" classname="ListOpsTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testReversingListOfListIsNotFlattened" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testConcatEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testConcatListOfLists" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAppendingListToEmptyList" classname="ListOpsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

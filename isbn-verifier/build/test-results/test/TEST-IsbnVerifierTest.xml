@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsbnVerifierTest" tests="17" skipped="16" failures="0" errors="0" timestamp="2021-04-04T05:47:42" hostname="64DEVIN" time="0.011">
+  <properties/>
+  <testcase name="isbnWithoutCheckDigit" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalidCharacterInIsbn" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="emptyIsbn" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="validIsbnNumberWithCheckDigitOfTen" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="tooShortIsbn" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="checkDigitIsACharacterOtherThanX" classname="IsbnVerifierTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="tooLongIsbnAndNoDashes" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="xIsOnlyValidAsACheckDigit" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="inputIsNineCharacters" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="isbnWithoutSeparatingDashesAndXAsCheckDigit" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="validIsbnNumber" classname="IsbnVerifierTest" time="0.005"/>
+  <testcase name="isbnWithoutCheckDigitAndDashes" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="validIsbnWithoutSeparatingDashes" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="inputIsTooLongButContainsAValidIsbn" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="checkDigitOfXShouldNotBeUsedForZero" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalidIsbnCheckDigit" classname="IsbnVerifierTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="invalidCharactersAreNotIgnored" classname="IsbnVerifierTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

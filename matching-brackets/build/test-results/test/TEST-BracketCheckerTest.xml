@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BracketCheckerTest" tests="17" skipped="16" failures="0" errors="0" timestamp="2021-04-05T19:12:13" hostname="64DEVIN" time="0.01">
+  <properties/>
+  <testcase name="testPairedWithWhitespace" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testPairedAndWrongNestedBrackets" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testWrongOrderedBrackets" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUnopenedClosingBracket" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testComplexLatexExpression" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSimpleNestedBrackets" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUnpairedAndNestedBrackets" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTooManyClosingBrackets" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testWrongClosingBracket" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testPairedAndIncompleteBrackets" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEmptyString" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testPartiallyPairedBrackets" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testMathExpression" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testPairedSquareBrackets" classname="BracketCheckerTest" time="0.004"/>
+  <testcase name="testPairedAndNestedBrackets" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUnpairedBrackets" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSeveralPairedBrackets" classname="BracketCheckerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GoCountingTest" tests="11" skipped="10" failures="0" errors="0" timestamp="2021-04-10T04:43:11" hostname="64DEVIN" time="0.011">
+  <properties/>
+  <testcase name="invalidXTooHigh5x5Board" classname="GoCountingTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="whiteCenter5x5BoardTest" classname="GoCountingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="stoneNotTerritory5x5Board" classname="GoCountingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalidXTooLow5x5Board" classname="GoCountingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoRegionRectangularBoardTest" classname="GoCountingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalidYTooLow5x5Board" classname="GoCountingTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="blackCorner5x5BoardTest" classname="GoCountingTest" time="0.005"/>
+  <testcase name="invalidYTooHigh5x5Board" classname="GoCountingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneTerritoryIsWholeBoardTest" classname="GoCountingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="openCorner5x5BoardTest" classname="GoCountingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoTerritoryRectangularBoardTest" classname="GoCountingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MinesweeperBoardTest" tests="12" skipped="11" failures="0" errors="0" timestamp="2021-04-06T06:54:18" hostname="64DEVIN" time="0.01">
+  <properties/>
+  <testcase name="testInputBoardWithNoRowsAndNoColumns" classname="MinesweeperBoardTest" time="0.005"/>
+  <testcase name="testInputBoardWithSingleColumnAndTwoMinesAtEdges" classname="MinesweeperBoardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputBoardWithSingleColumnAndTwoMines" classname="MinesweeperBoardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputBoardWithOnlyMines" classname="MinesweeperBoardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputBoardWithMinesInCross" classname="MinesweeperBoardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputBoardWithMinesAroundPerimeter" classname="MinesweeperBoardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputBoardWithSingleMineAtCenter" classname="MinesweeperBoardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputBoardWithNoMines" classname="MinesweeperBoardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputBoardWithOneRowAndNoColumns" classname="MinesweeperBoardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLargeInputBoard" classname="MinesweeperBoardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputBoardWithSingleRowAndTwoMinesAtEdges" classname="MinesweeperBoardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputBoardWithSingleRowAndTwoMines" classname="MinesweeperBoardTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PalindromeCalculatorTest" tests="12" skipped="11" failures="0" errors="0" timestamp="2021-04-08T06:26:14" hostname="64DEVIN" time="0.012">
+  <properties/>
+  <testcase name="largestPalindromeFromSingleDigitFactors" classname="PalindromeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="errorLargestMinIsMoreThanMax" classname="PalindromeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="smallestPalindromeFromTripleDigitFactors" classname="PalindromeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="smallestPalindromeFromQuadDigitFactors" classname="PalindromeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="largestPalindromeFromTripleDigitFactors" classname="PalindromeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="errorSmallestMinIsMoreThanMax" classname="PalindromeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="smallestPalindromeFromDoubleDigitFactors" classname="PalindromeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="emtpyResultSmallestNoPalindromeInRange" classname="PalindromeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="largestPalindromeFromQuadDigitFactors" classname="PalindromeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="emptyResultLargestNoPalindromeInRange" classname="PalindromeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="smallestPalindromeFromSingleDigitFactors" classname="PalindromeCalculatorTest" time="0.007"/>
+  <testcase name="largestPalindromeFromDoubleDigitFactors" classname="PalindromeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleCipherStepTwoSubsitutionTest" tests="7" skipped="7" failures="0" errors="0" timestamp="2021-04-10T04:55:11" hostname="64DEVIN" time="0.001">
+  <properties/>
+  <testcase name="cipherCanDoubleShiftEncode" classname="SimpleCipherStepTwoSubsitutionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="cipherCanDecode" classname="SimpleCipherStepTwoSubsitutionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="cipherCanEncode" classname="SimpleCipherStepTwoSubsitutionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="cipherMessageLongerThanKey" classname="SimpleCipherStepTwoSubsitutionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="cipherIsReversibleGivenKey" classname="SimpleCipherStepTwoSubsitutionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="cipherCanWrapDecode" classname="SimpleCipherStepTwoSubsitutionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="cipherCanWrapEncode" classname="SimpleCipherStepTwoSubsitutionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

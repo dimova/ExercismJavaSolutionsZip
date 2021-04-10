@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RobotTest" tests="18" skipped="17" failures="0" errors="0" timestamp="2021-04-09T15:11:37" hostname="64DEVIN" time="0.014">
+  <properties/>
+  <testcase name="movingWestAndNorth" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="movingWestAndSouth" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="atNegativePositionFacingSouth" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="movingEastAndNorth" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="changesNorthToEast" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="changesNorthToWest" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="changesEastToNorth" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="changesEastToSouth" classname="RobotTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="facingWestDecrementsX" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="atOriginFacingNorth" classname="RobotTest" time="0.007"/>
+  <testcase name="facingSouthDecrementsY" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="movingEastAndNorthFromReadme" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="changesWestToNorth" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="changesWestToSouth" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="facingNorthIncrementsY" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="changesSouthToEast" classname="RobotTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="changesSouthToWest" classname="RobotTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="facingEastIncrementsX" classname="RobotTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

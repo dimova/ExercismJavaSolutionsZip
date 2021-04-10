@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DoublyLinkedListTest" tests="5" skipped="4" failures="0" errors="0" timestamp="2021-04-08T19:08:06" hostname="64DEVIN" time="0.346">
+  <properties/>
+  <testcase name="testExample" classname="DoublyLinkedListTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testPushPop" classname="DoublyLinkedListTest" time="0.341"/>
+  <testcase name="testPushShift" classname="DoublyLinkedListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUnshiftPop" classname="DoublyLinkedListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUnshiftShift" classname="DoublyLinkedListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

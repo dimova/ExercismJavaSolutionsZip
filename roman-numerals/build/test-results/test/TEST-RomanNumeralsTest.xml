@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RomanNumeralsTest" tests="19" skipped="18" failures="0" errors="0" timestamp="2021-04-07T19:39:28" hostname="64DEVIN" time="0.019">
+  <properties/>
+  <testcase name="test3000ToRomanNumberMMM" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test9ToRomanNumberIX" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test575ToRomanNumberDLXXV" classname="RomanNumeralsTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="test49ToRomanNumberXLIX" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test1ToRomanNumberI" classname="RomanNumeralsTest" time="0.002"/>
+  <testcase name="test48ToRomanNumberXLVIII" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test3ToRomanNumberIII" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test6ToRomanNumberVI" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test911ToRomanNumberCMXI" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test1024ToRomanNumberMXXIV" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test59ToRomanNumberLIX" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test5ToRomanNumberV" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test27ToRomanNumberXXVII" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test141ToRomanNumberCXLI" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test4ToRomanNumberIV" classname="RomanNumeralsTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="test163ToRomanNumberCLXIII" classname="RomanNumeralsTest" time="0.004">
+    <skipped/>
+  </testcase>
+  <testcase name="test93ToRomanNumberXCIII" classname="RomanNumeralsTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="test2ToRomanNumberII" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="test402ToRomanNumberCDII" classname="RomanNumeralsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

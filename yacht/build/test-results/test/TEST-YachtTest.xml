@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="YachtTest" tests="28" skipped="27" failures="0" errors="0" timestamp="2021-04-04T05:37:38" hostname="64DEVIN" time="0.024">
+  <properties/>
+  <testcase name="bigStraightAsLittleStraight" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="onesOutOfOrder" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="yachtCanBeScoredAsFourOfAKind" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="yachtCountedAsThrees" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="choice" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="noPairsButNotABigStraight" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fullHouseTwoSmallThreeBig" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="yachtOfThreesCountedAsFives" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="noOnes" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="noPairsButNotALittleStraight" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="littleStraightAsBigStraight" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fourOfAKindIsNotAFullHouse" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="ones" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twos" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fours" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="sixes" classname="YachtTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="yacht" classname="YachtTest" time="0.017"/>
+  <testcase name="littleStraight" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="yachtIsNotAFullHouse" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fullHouseIsNotFourOfAKind" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoPairIsNotAFullHouse" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="yachtAsChoice" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="bigStraight" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fourOfAKind" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="notYacht" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fourInOrderButNotALittleStraight" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fullHouseThreeSmallTwoBig" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="minimumIs1MaximumIs5ButNotALittleStraight" classname="YachtTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+[0m2021.04.09 19:28:46 INFO  Started: Metals version 0.10.1 in workspace 'C:\Users\dessi\Exercism\java\bowling' for client vscode 1.55.1.[0m
+[0m2021.04.09 19:28:52 INFO  time: initialize in 6.17s[0m
+[0m2021.04.09 19:28:56 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.09 21:10:13 INFO  Started: Metals version 0.10.1 in workspace 'C:\Users\dessi\Exercism\java\bowling' for client vscode 1.55.1.[0m
+[0m2021.04.09 21:10:16 INFO  time: initialize in 3.65s[0m
+[0m2021.04.09 21:10:22 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.09 21:10:23 INFO  skipping build import with status 'Requested'[0m
+[0m2021.04.09 21:10:23 INFO  shutting down Metals[0m

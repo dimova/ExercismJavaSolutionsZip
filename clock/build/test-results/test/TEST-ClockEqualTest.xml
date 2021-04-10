@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClockEqualTest" tests="16" skipped="16" failures="0" errors="0" timestamp="2021-04-10T04:11:29" hostname="64DEVIN" time="0.001">
+  <properties/>
+  <testcase name="clocksWithNegateHour" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithHourOverflowBySeveralDays" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithNegativeMinutes" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithNegativeMinutesThatWraps" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithNegativeHourThatWraps" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksAMinuteApartAreNotEqual" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithNegativeHoursAndMinutesThatWrap" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksAnHourApartAreNotEqual" classname="ClockEqualTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithFullClockAndZeroedClockAreEqual" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithHourOverflow" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithNegativeMinutesThatWrapsMultipleTimes" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithNegativeHourThatWrapsMultipleTimes" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithMinuteOverflowBySeveralDays" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithMinuteOverflow" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithNegativeHoursAndMinutes" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="clocksWithSameTimeAreEqual" classname="ClockEqualTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AffineCipherTest" tests="16" skipped="15" failures="0" errors="0" timestamp="2021-04-09T18:41:11" hostname="64DEVIN" time="0.011">
+  <properties/>
+  <testcase name="testEncodeOMG" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeYes" classname="AffineCipherTest" time="0.003"/>
+  <testcase name="testDecodeWithNoSpaces" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeMindBlowingly" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeNo" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecodeWithTooManySpaces" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecodeSentence" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeAllTheLetters" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecodeNumbers" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecodeExercism" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeDeepThought" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecodeThrowsMeaningfulException" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDecodeAllTheLetters" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeNumbers" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeThrowsMeaningfulException" classname="AffineCipherTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEncodeO_M_G" classname="AffineCipherTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

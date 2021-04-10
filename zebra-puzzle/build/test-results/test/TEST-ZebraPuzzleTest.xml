@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ZebraPuzzleTest" tests="2" skipped="1" failures="0" errors="0" timestamp="2021-04-09T19:09:40" hostname="64DEVIN" time="1.89">
+  <properties/>
+  <testcase name="residentWhoOwnsZebra" classname="ZebraPuzzleTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="residentWhoDrinksWater" classname="ZebraPuzzleTest" time="1.888"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

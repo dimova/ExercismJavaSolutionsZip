@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TransposeTest" tests="11" skipped="10" failures="0" errors="0" timestamp="2021-04-08T18:52:17" hostname="64DEVIN" time="0.055">
+  <properties/>
+  <testcase name="secondLineLongerThanFirstLine" classname="TransposeTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="simple" classname="TransposeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="square" classname="TransposeTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="firstLineLongerThanSecondLine" classname="TransposeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoCharactersInARow" classname="TransposeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="singleLine" classname="TransposeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="rectangle" classname="TransposeTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="mixedLineLength" classname="TransposeTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="emptyString" classname="TransposeTest" time="0.029"/>
+  <testcase name="twoCharactersInAColumn" classname="TransposeTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="triangle" classname="TransposeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[0
+0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

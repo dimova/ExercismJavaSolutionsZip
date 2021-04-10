@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SieveTest" tests="5" skipped="4" failures="0" errors="0" timestamp="2021-04-04T07:43:15" hostname="64DEVIN" time="0.053">
+  <properties/>
+  <testcase name="findFirstPrime" classname="SieveTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="noPrimesUnder2" classname="SieveTest" time="0.05"/>
+  <testcase name="findPrimesUpTo1000" classname="SieveTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="limitIsPrime" classname="SieveTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="findPrimesUpTo10" classname="SieveTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

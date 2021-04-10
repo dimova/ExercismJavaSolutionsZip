@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwoBucketTest" tests="6" skipped="5" failures="0" errors="0" timestamp="2021-04-09T18:44:50" hostname="64DEVIN" time="0.007">
+  <properties/>
+  <testcase name="testBucketOneSizeOneBucketTwoSizeThreeStartWithTwo" classname="TwoBucketTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testBucketOneSizeTwoBucketTwoSizeThreeStartWithOne" classname="TwoBucketTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testBucketOneSizeSevenBucketTwoSizeElevenStartWithOne" classname="TwoBucketTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testBucketOneSizeSevenBucketTwoSizeElevenStartWithTwo" classname="TwoBucketTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testBucketOneSizeThreeBucketTwoSizeFiveStartWithOne" classname="TwoBucketTest" time="0.004"/>
+  <testcase name="testBucketOneSizeThreeBucketTwoSizeFiveStartWithTwo" classname="TwoBucketTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

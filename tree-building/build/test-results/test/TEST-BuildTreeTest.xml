@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BuildTreeTest" tests="11" skipped="10" failures="0" errors="0" timestamp="2021-04-10T04:13:07" hostname="64DEVIN" time="0.011">
+  <properties/>
+  <testcase name="testOneRecord" classname="BuildTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testBinaryTree" classname="BuildTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUnbalancedTree" classname="BuildTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEmptyList" classname="BuildTreeTest" time="0.008"/>
+  <testcase name="testNonContinuousRecords" classname="BuildTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNoRootNode" classname="BuildTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCycleIndirectly" classname="BuildTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThreeRecordsInReverseOrder" classname="BuildTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThreeRecordsInOrder" classname="BuildTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testRecordsWithMoreThanTwoChildren" classname="BuildTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testRootNodeHasParent" classname="BuildTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

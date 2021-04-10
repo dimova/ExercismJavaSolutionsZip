@@ -1,0 +1,4 @@
+[0m2021.04.08 21:58:53 INFO  Started: Metals version 0.10.1 in workspace 'C:\Users\dessi\Exercism\java\house' for client vscode 1.55.1.[0m
+[0m2021.04.08 21:58:58 INFO  time: initialize in 5.36s[0m
+[0m2021.04.08 21:59:00 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.08 22:02:28 INFO  shutting down Metals[0m

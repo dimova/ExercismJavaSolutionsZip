@@ -1,0 +1,35 @@
+[0m2021.04.03 08:20:36 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\dessi\Exercism\java\hello-world' for client vscode 1.55.0.[0m
+[0m2021.04.03 08:20:41 INFO  time: initialize in 4.64s[0m
+[0m2021.04.03 08:20:47 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.03 08:24:50 INFO  running 'C:\Users\dessi\AppData\Local\Temp\metals1052303403548956615\gradlew.bat --console=plain --init-script C:\Users\dessi\AppData\Local\Temp\metals1052303403548956615\init-script.gradle bloopInstall'[0m
+[0m2021.04.03 08:24:53 INFO  Downloading https://services.gradle.org/distributions/gradle-5.3.1-bin.zip[0m
+[0m2021.04.03 08:25:13 INFO  ...................................................................................[0m
+[0m2021.04.03 08:25:36 INFO  [0m
+[0m2021.04.03 08:25:36 INFO  Welcome to Gradle 5.3.1![0m
+[0m2021.04.03 08:25:36 INFO  [0m
+[0m2021.04.03 08:25:36 INFO  Here are the highlights of this release:[0m
+[0m2021.04.03 08:25:36 INFO   - Feature variants AKA "optional dependencies"[0m
+[0m2021.04.03 08:25:36 INFO   - Type-safe accessors in Kotlin precompiled script plugins[0m
+[0m2021.04.03 08:25:36 INFO   - Gradle Module Metadata 1.0[0m
+[0m2021.04.03 08:25:36 INFO  [0m
+[0m2021.04.03 08:25:36 INFO  For more details see https://docs.gradle.org/5.3.1/release-notes.html[0m
+[0m2021.04.03 08:25:36 INFO  [0m
+[0m2021.04.03 08:25:39 INFO  Starting a Gradle Daemon (subsequent builds will be faster)[0m
+[0m2021.04.03 08:26:03 ERROR [0m
+[0m2021.04.03 08:26:03 ERROR FAILURE: Build failed with an exception.[0m
+[0m2021.04.03 08:26:03 ERROR [0m
+[0m2021.04.03 08:26:03 ERROR * What went wrong:[0m
+[0m2021.04.03 08:26:03 ERROR Could not open cp_init remapped class cache for 9e87fybj5j6j6ahcz5vsibrkr (C:\Users\dessi\.gradle\caches\5.3.1\scripts-remapped\init_script_7rbfell51hj6pzf60243zsbj\9e87fybj5j6j6ahcz5vsibrkr\cp_initdf81213ac8da0a0be535e5c64c4d77bc).[0m
+[0m2021.04.03 08:26:03 ERROR > Could not open cp_init generic class cache for initialization script 'C:\Users\dessi\AppData\Local\Temp\metals1052303403548956615\init-script.gradle' (C:\Users\dessi\.gradle\caches\5.3.1\scripts\9e87fybj5j6j6ahcz5vsibrkr\cp_init\cp_initdf81213ac8da0a0be535e5c64c4d77bc).[0m
+[0m2021.04.03 08:26:03 ERROR    > Could not initialize class org.codehaus.groovy.vmplugin.v7.Java7[0m
+[0m2021.04.03 08:26:03 ERROR [0m
+[0m2021.04.03 08:26:03 ERROR * Try:[0m
+[0m2021.04.03 08:26:03 ERROR Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.[0m
+[0m2021.04.03 08:26:03 ERROR [0m
+[0m2021.04.03 08:26:03 ERROR * Get more help at https://help.gradle.org[0m
+[0m2021.04.03 08:26:03 ERROR [0m
+[0m2021.04.03 08:26:03 ERROR BUILD FAILED in 1m 10s[0m
+[0m2021.04.03 08:26:04 INFO  gradle bloopInstall exit: 1[0m
+[0m2021.04.03 08:26:04 INFO  time: ran 'gradle bloopInstall' in 1m13s[0m
+[0m2021.04.03 08:26:04 ERROR Gradle command failed: C:\Users\dessi\AppData\Local\Temp\metals1052303403548956615\gradlew.bat --console=plain --init-script C:\Users\dessi\AppData\Local\Temp\metals1052303403548956615\init-script.gradle bloopInstall[0m
+[0m2021.04.03 08:26:08 INFO  shutting down Metals[0m

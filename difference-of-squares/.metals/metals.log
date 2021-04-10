@@ -1,0 +1,22 @@
+[0m2021.04.03 15:38:20 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\dessi\Exercism\java\difference-of-squares' for client vscode 1.55.0.[0m
+[0m2021.04.03 15:38:22 INFO  time: initialize in 1.63s[0m
+[0m2021.04.03 15:38:23 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.03 16:47:45 INFO  running 'C:\Users\dessi\AppData\Local\Temp\metals13143481011248646945\gradlew.bat --console=plain --init-script C:\Users\dessi\AppData\Local\Temp\metals13143481011248646945\init-script.gradle bloopInstall'[0m
+[0m2021.04.03 16:47:50 ERROR [0m
+[0m2021.04.03 16:47:50 ERROR FAILURE: Build failed with an exception.[0m
+[0m2021.04.03 16:47:50 ERROR [0m
+[0m2021.04.03 16:47:50 ERROR * What went wrong:[0m
+[0m2021.04.03 16:47:50 ERROR Could not open cp_init remapped class cache for 9e87fybj5j6j6ahcz5vsibrkr (C:\Users\dessi\.gradle\caches\5.3.1\scripts-remapped\init_script_eslqnrsjysrexwe8vp7t0x57o\9e87fybj5j6j6ahcz5vsibrkr\cp_initdf81213ac8da0a0be535e5c64c4d77bc).[0m
+[0m2021.04.03 16:47:50 ERROR > Could not open cp_init generic class cache for initialization script 'C:\Users\dessi\AppData\Local\Temp\metals13143481011248646945\init-script.gradle' (C:\Users\dessi\.gradle\caches\5.3.1\scripts\9e87fybj5j6j6ahcz5vsibrkr\cp_init\cp_initdf81213ac8da0a0be535e5c64c4d77bc).[0m
+[0m2021.04.03 16:47:50 ERROR    > Could not initialize class org.codehaus.groovy.classgen.Verifier[0m
+[0m2021.04.03 16:47:50 ERROR [0m
+[0m2021.04.03 16:47:50 ERROR * Try:[0m
+[0m2021.04.03 16:47:50 ERROR Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights.[0m
+[0m2021.04.03 16:47:50 ERROR [0m
+[0m2021.04.03 16:47:50 ERROR * Get more help at https://help.gradle.org[0m
+[0m2021.04.03 16:47:50 ERROR [0m
+[0m2021.04.03 16:47:50 ERROR BUILD FAILED in 4s[0m
+[0m2021.04.03 16:47:51 INFO  gradle bloopInstall exit: 1[0m
+[0m2021.04.03 16:47:51 INFO  time: ran 'gradle bloopInstall' in 6.18s[0m
+[0m2021.04.03 16:47:51 ERROR Gradle command failed: C:\Users\dessi\AppData\Local\Temp\metals13143481011248646945\gradlew.bat --console=plain --init-script C:\Users\dessi\AppData\Local\Temp\metals13143481011248646945\init-script.gradle bloopInstall[0m
+[0m2021.04.03 16:55:22 INFO  shutting down Metals[0m

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParallelLetterFrequencyTest" tests="7" skipped="6" failures="0" errors="0" timestamp="2021-04-09T18:29:25" hostname="64DEVIN" time="0.01">
+  <properties/>
+  <testcase name="noTextsMeansNoLetters" classname="ParallelLetterFrequencyTest" time="0.008"/>
+  <testcase name="biggerEmptyTextsStillReturnNoResults" classname="ParallelLetterFrequencyTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="manyRepetitionsOfTheSameTextGiveAPredictableResult" classname="ParallelLetterFrequencyTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneLetterIsCorrectlyCounted" classname="ParallelLetterFrequencyTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="punctuationDoesntCount" classname="ParallelLetterFrequencyTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="resultsAreCaseInsensitive" classname="ParallelLetterFrequencyTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="numbersDontCount" classname="ParallelLetterFrequencyTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

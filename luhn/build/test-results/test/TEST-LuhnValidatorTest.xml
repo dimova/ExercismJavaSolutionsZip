@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LuhnValidatorTest" tests="19" skipped="18" failures="0" errors="0" timestamp="2021-04-04T07:23:21" hostname="64DEVIN" time="0.016">
+  <properties/>
+  <testcase name="testSimpleValidSINReversedRemainsValid" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testValidNumberWithAnOddNumberOfSpaces" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testValidCanadianSINValid" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testMoreThanSingleZeroValid" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testStringContainingSymbolsInvalidJavaTrackSpecific" classname="LuhnValidatorTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testSimpleValidSINReversedBecomesInvalid" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSingleZeroIsInvalid" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInvalidCanadianSINInvalid" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testStringContainingPunctuationInvalid" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUsingASCIIValueForNonDoubledNonDigitNotAllowed" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testValidStringsWithANonDigitAtEndInvalid" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testValidNumberWithAnEvenNumberOfDigits" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDigitNineConvertedToOutputNine" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSingleSpaceWithZeroInvalid" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSingleDigitStringInvalid" classname="LuhnValidatorTest" time="0.007"/>
+  <testcase name="testStringContainingSymbolsInvalid" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInvalidCreditCardInvalid" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUsingASCIIValueForDoubledNonDigitNotAllowed" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInvalidLongNumberWithAnEvenRemainder" classname="LuhnValidatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

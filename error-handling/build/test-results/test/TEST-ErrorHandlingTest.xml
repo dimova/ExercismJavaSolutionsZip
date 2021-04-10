@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ErrorHandlingTest" tests="11" skipped="10" failures="0" errors="0" timestamp="2021-04-05T10:07:30" hostname="64DEVIN" time="0.008">
+  <properties/>
+  <testcase name="testThrowIllegalArgumentExceptionWithDetailMessage" classname="ErrorHandlingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReturnOptionalInstance" classname="ErrorHandlingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThrowCustomUncheckedException" classname="ErrorHandlingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThrowCustomCheckedExceptionWithDetailMessage" classname="ErrorHandlingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThrowCustomUncheckedExceptionWithDetailMessage" classname="ErrorHandlingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThrowIllegalArgumentException" classname="ErrorHandlingTest" time="0.004"/>
+  <testcase name="testThrowAnyUncheckedException" classname="ErrorHandlingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThrowAnyCheckedExceptionWithDetailMessage" classname="ErrorHandlingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThrowAnyCheckedException" classname="ErrorHandlingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThrowAnyUncheckedExceptionWithDetailMessage" classname="ErrorHandlingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThrowCustomCheckedException" classname="ErrorHandlingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

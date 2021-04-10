@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LargestSeriesProductCalculatorTest" tests="15" skipped="14" failures="0" errors="0" timestamp="2021-04-04T07:38:03" hostname="64DEVIN" time="0.019">
+  <properties/>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLengthThreeWithNumbersNotInOrder" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLength0ForEmptyStringToSearch" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCorrectlyCalculatesLargestProductOfZeroIfAllDigitsAreZeroes" classname="LargestSeriesProductCalculatorTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testCorrectlyCalculatesLargestProductInLongStringToSearchV1" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSeriesLengthLongerThanLengthOfStringToTestIsRejected" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLength0ForNonEmptyStringToSearch" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLengthThreeWithNumbersInOrder" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCorrectlyCalculatesLargestProductOfZeroIfAllSeriesOfGivenLengthContainZero" classname="LargestSeriesProductCalculatorTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testNegativeSeriesLengthIsRejected" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCorrectlyCalculatesLargestProductWhenSeriesLengthEqualsStringToSearchLength" classname="LargestSeriesProductCalculatorTest" time="0.015"/>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLengthTwoWithNumbersInOrder" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEmptyStringToSearchAndSeriesOfNonZeroLengthIsRejected" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testStringToSearchContainingNonDigitCharacterIsRejected" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLengthFiveWithNumbersInOrder" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLengthTwoWithNumbersNotInOrder" classname="LargestSeriesProductCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

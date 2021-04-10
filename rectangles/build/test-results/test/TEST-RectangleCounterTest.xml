@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RectangleCounterTest" tests="13" skipped="12" failures="0" errors="0" timestamp="2021-04-10T04:49:08" hostname="64DEVIN" time="0.035">
+  <properties/>
+  <testcase name="testThatIncompleteRectanglesAreNotCounted" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNonTrivialInputWithNoRectangles" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputWithNoRowsContainsNoRectangles" classname="RectangleCounterTest" time="0.03"/>
+  <testcase name="testThatRectanglesOfDifferentSizesAreAllCounted" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputWithNoColumnsContainsNoRectangles" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatRectangleOfWidthOneIsCounted" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputWithFiveRectanglesWithSharedEdges" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatRectangleOfHeightOneIsCounted" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatOneByOneSquareIsCounted" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputWithTwoRectanglesWithoutSharedEdges" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLargeInputWithManyRectangles" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputWithOneRectangle" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatIntersectionsWithoutCornerCharacterDoNotCountAsRectangleCorners" classname="RectangleCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

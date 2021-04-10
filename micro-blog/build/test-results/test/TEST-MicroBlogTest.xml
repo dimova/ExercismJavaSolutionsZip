@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MicroBlogTest" tests="12" skipped="11" failures="0" errors="0" timestamp="2021-04-04T05:32:08" hostname="64DEVIN" time="0.006">
+  <properties/>
+  <testcase name="germanLanguageShort_broth" classname="MicroBlogTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="bulgarianLanguageShort_good" classname="MicroBlogTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="mathsShort" classname="MicroBlogTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="englishLanguageShort" classname="MicroBlogTest" time="0.003"/>
+  <testcase name="royalFlush" classname="MicroBlogTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="englishLanguageLong" classname="MicroBlogTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="germanLanguageLong_bearCarpet_to_beards" classname="MicroBlogTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="greekLanguageShort_health" classname="MicroBlogTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="emojiShort" classname="MicroBlogTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="mathsLong" classname="MicroBlogTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="englishAndEmojiShort" classname="MicroBlogTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="emojiLong" classname="MicroBlogTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+[0m2021.04.08 10:43:27 INFO  Started: Metals version 0.10.1 in workspace 'C:\Users\dessi\Exercism\java\rational-numbers' for client vscode 1.55.0.[0m
+[0m2021.04.08 10:43:29 INFO  time: initialize in 1.73s[0m
+[0m2021.04.08 10:43:30 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.08 13:11:55 INFO  shutting down Metals[0m
+[0m2021.04.08 15:24:22 INFO  Started: Metals version 0.10.1 in workspace 'C:\Users\dessi\Exercism\java\rational-numbers' for client vscode 1.55.0.[0m
+[0m2021.04.08 15:24:23 INFO  time: initialize in 1.74s[0m
+[0m2021.04.08 15:24:24 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.08 15:24:25 INFO  skipping build import with status 'Requested'[0m
+[0m2021.04.08 21:44:44 INFO  shutting down Metals[0m

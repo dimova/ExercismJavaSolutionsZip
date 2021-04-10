@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PythagoreanTripletTest" tests="7" skipped="6" failures="0" errors="0" timestamp="2021-04-08T06:01:23" hostname="64DEVIN" time="0.277">
+  <properties/>
+  <testcase name="tripletsWhoseSumIs1000" classname="PythagoreanTripletTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="tripletsWhoseSumIs1001" classname="PythagoreanTripletTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="tripletsWhoseSumIs108" classname="PythagoreanTripletTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="tripletsWhoseSumIs840" classname="PythagoreanTripletTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="tripletsWhoseSumIs12" classname="PythagoreanTripletTest" time="0.273"/>
+  <testcase name="tripletsWhoseSumIs90" classname="PythagoreanTripletTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="tripletsWhoseSumIs30000" classname="PythagoreanTripletTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

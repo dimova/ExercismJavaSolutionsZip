@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinarySearchTreeTest" tests="10" skipped="9" failures="0" errors="0" timestamp="2021-04-10T03:42:47" hostname="64DEVIN" time="0.008">
+  <properties/>
+  <testcase name="iteratesOverComplexTree" classname="BinarySearchTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="dataIsRetained" classname="BinarySearchTreeTest" time="0.004"/>
+  <testcase name="insertsLess" classname="BinarySearchTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="insertsSame" classname="BinarySearchTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="sortsSingleElement" classname="BinarySearchTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="sortsCollectionOfTwoIfSecondInsertedIsSmallerThanFirst" classname="BinarySearchTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="createsComplexTree" classname="BinarySearchTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="insertsRight" classname="BinarySearchTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="sortsCollectionOfTwoIfSecondNumberisSameAsFirst" classname="BinarySearchTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="sortsCollectionOfTwoIfSecondInsertedIsBiggerThanFirst" classname="BinarySearchTreeTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

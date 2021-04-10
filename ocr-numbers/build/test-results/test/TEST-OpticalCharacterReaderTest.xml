@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OpticalCharacterReaderTest" tests="17" skipped="16" failures="0" errors="0" timestamp="2021-04-10T04:45:48" hostname="64DEVIN" time="0.015">
+  <properties/>
+  <testcase name="testReaderRecognizesAndCorrectlyFormatsMultiRowInput" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderReturnsQuestionMarkForUnreadableButCorrectlySizedInput" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderThrowsExceptionWhenNumberOfInputColumnsIsNotAMultipleOf3" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderRecognizesBinarySequence110101100" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderRecognizesSingle0" classname="OpticalCharacterReaderTest" time="0.006"/>
+  <testcase name="testReaderRecognizesSingle1" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderRecognizesSingle2" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderRecognizesSingle3" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderRecognizesSingle4" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderRecognizesSingle5" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderRecognizesSingle6" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderRecognizesSingle7" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderRecognizesSingle8" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderRecognizesSingle9" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderReplacesUnreadableDigitsWithQuestionMarksWithinSequence" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderRecognizesSequence1234567890" classname="OpticalCharacterReaderTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testReaderThrowsExceptionWhenNumberOfInputLinesIsNotAMultipleOf4" classname="OpticalCharacterReaderTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

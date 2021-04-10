@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MarkdownTest" tests="13" skipped="12" failures="0" errors="0" timestamp="2021-04-10T04:09:11" hostname="64DEVIN" time="0.028">
+  <properties/>
+  <testcase name="normalTextAsAParagraph" classname="MarkdownTest" time="0.024"/>
+  <testcase name="withH1HeaderLevel" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="normalItalicsAndBoldText" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="withH2HeaderLevel" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="markdownSymbolsInTheParagraphTextShouldNotBeInterpreted" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="withH6HeaderLevel" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="unorderedLists" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="aLittleBitOfEverything" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="markdownSymbolsInTheListItemTextShouldNotBeInterpreted" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="markdownSymbolsInTheHeaderShouldNotBeInterpreted" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="markdownUnorderedListsCloseProperlyWithPrecedingAndFollowingLines" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="boldText" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="italics" classname="MarkdownTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

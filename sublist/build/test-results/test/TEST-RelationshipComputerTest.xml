@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RelationshipComputerTest" tests="17" skipped="16" failures="0" errors="0" timestamp="2021-04-10T03:15:41" hostname="64DEVIN" time="0.013">
+  <properties/>
+  <testcase name="testEmptyListIsSublistOfNonEmptyList" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatListsWithSameDigitsButDifferentNumbersAreUnequal" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSublistCheckDoesNotAbortAfterFalseStart" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInMiddleOfSuperlist" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testListIsEqualToItself" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDifferentListsOfTheSameLengthAreUnequal" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSublistAtEnd" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAtEndOfSuperlist" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSublistInMiddle" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSublistAtStart" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testFirstListMissingElementFromSecondList" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSecondListMissingElementFromFirstList" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatListOrderingIsAccountedFor" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSublistCheckHandlesExtraneousRepeatsOfFirstEntry" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNonEmptyListIsSuperlistOfEmptyList" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatTwoEmptyListsAreConsideredEqual" classname="RelationshipComputerTest" time="0.008"/>
+  <testcase name="testAtStartOfSuperlist" classname="RelationshipComputerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

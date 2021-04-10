@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AlphameticsTest" tests="10" skipped="9" failures="0" errors="0" timestamp="2021-04-08T06:34:13" hostname="64DEVIN" time="0.089">
+  <properties/>
+  <testcase name="testFourLetters" classname="AlphameticsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSevenLetters" classname="AlphameticsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThreeLetters" classname="AlphameticsTest" time="0.085"/>
+  <testcase name="testTwoDigitsFinalCarry" classname="AlphameticsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTenLetters41Addends" classname="AlphameticsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testTenLetters" classname="AlphameticsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testLeadingZero" classname="AlphameticsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEightLetters" classname="AlphameticsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testUniqueValue" classname="AlphameticsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSixLetters" classname="AlphameticsTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

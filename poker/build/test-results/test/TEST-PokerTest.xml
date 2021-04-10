@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PokerTest" tests="28" skipped="27" failures="0" errors="0" timestamp="2021-04-06T08:17:31" hostname="64DEVIN" time="0.036">
+  <properties/>
+  <testcase name="squareVsStraightFlush" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoDoublePairs" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="threeVsStraight" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="tieHasMultipleWinners" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoSquares" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="oneHand" classname="PokerTest" time="0.028"/>
+  <testcase name="identicallyRankedPairs" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoStraightFlushes" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoFlushes" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="flushVsFull" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="highestCardWins" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="fullVsSquare" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="onePairVsDoublePair" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoStraights" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoThrees" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="straightVsFlush" classname="PokerTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="nothingVsOnePair" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="sameHighestPair" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="sameHighCards" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="doublePairVsThree" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="acesCanEndAStraight" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="sameSquaresMultipleDecks" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="sameThreesMultipleDecks" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="acesCanStartAStraight" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoFullssameThripletMultipleDecks" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoFulls" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="twoPairs" classname="PokerTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="theLowestStraightStartsWithAce" classname="PokerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

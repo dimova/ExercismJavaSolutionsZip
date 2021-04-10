@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordCountTest" tests="13" skipped="12" failures="0" errors="0" timestamp="2021-04-05T19:05:43" hostname="64DEVIN" time="0.018">
+  <properties/>
+  <testcase name="handlesExpandedLists" classname="WordCountTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="withQuotations" classname="WordCountTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="normalizeCase" classname="WordCountTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleSpacesNotDetectedAsAWord" classname="WordCountTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="countOneOfEachWord" classname="WordCountTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="handlesCrampedLists" classname="WordCountTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="withApostrophes" classname="WordCountTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="countOneWord" classname="WordCountTest" time="0.009"/>
+  <testcase name="alternatingWordSeperatorsNotDetectedAsAWord" classname="WordCountTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="substringsFromTheBeginning" classname="WordCountTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="multipleOccurrencesOfAWord" classname="WordCountTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="includeNumbers" classname="WordCountTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="ignorePunctuation" classname="WordCountTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

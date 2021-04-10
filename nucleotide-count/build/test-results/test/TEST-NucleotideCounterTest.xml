@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NucleotideCounterTest" tests="5" skipped="4" failures="0" errors="0" timestamp="2021-04-05T19:01:07" hostname="64DEVIN" time="0.322">
+  <properties/>
+  <testcase name="testDnaStringHasOneNucleotide" classname="NucleotideCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDnaStringHasMultipleNucleotide" classname="NucleotideCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEmptyDnaStringHasNoNucleotides" classname="NucleotideCounterTest" time="0.319"/>
+  <testcase name="testDnaStringHasInvalidNucleotides" classname="NucleotideCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testRepetitiveSequenceWithOnlyGuanine" classname="NucleotideCounterTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

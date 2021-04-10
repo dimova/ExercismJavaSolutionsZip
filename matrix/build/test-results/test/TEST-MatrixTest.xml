@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MatrixTest" tests="8" skipped="7" failures="0" errors="0" timestamp="2021-04-04T07:28:04" hostname="64DEVIN" time="0.014">
+  <properties/>
+  <testcase name="extractRowFromOneNumberMatrixTest" classname="MatrixTest" time="0.009"/>
+  <testcase name="extractRowFromDiffWidthsMatrixTest" classname="MatrixTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="extractColumnFromNonSquareMatrixTest" classname="MatrixTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="extractColumnFromDiffWidthsMatrixTest" classname="MatrixTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="extractColumnMatrixTest" classname="MatrixTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="extractRowFromMatrixTest" classname="MatrixTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="extractColumnFromOneNumberMatrixTest" classname="MatrixTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="extractRowFromNonSquareMatrixTest" classname="MatrixTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

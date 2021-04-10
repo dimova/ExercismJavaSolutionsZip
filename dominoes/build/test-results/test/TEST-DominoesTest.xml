@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DominoesTest" tests="12" skipped="11" failures="0" errors="0" timestamp="2021-04-08T05:55:44" hostname="64DEVIN" time="0.009">
+  <properties/>
+  <testcase name="cantBeChainedTest" classname="DominoesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="needBacktrackTest" classname="DominoesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="singletonInputSingletonOutput" classname="DominoesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="nineElementsTest" classname="DominoesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="separateLoopsTest" classname="DominoesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="disconnectedDoubleLoopTest" classname="DominoesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="singletonCantBeChainedTest" classname="DominoesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="disconnectedSingleIsolatedTest" classname="DominoesTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="emtpyInputEmptyOutputTest" classname="DominoesTest" time="0.004"/>
+  <testcase name="canReverseDominoesTest" classname="DominoesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="disconnectedSimpleTest" classname="DominoesTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="threeElementsTest" classname="DominoesTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
